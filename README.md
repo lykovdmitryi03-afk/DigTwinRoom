@@ -123,7 +123,7 @@ docs/      Architecture and technical documentation
 
 ## Development Roadmap
 
-- [ ] Repository and MQTT contract
+- [x] Repository and MQTT contract
 - [ ] Docker infrastructure
 - [ ] PostgreSQL schema
 - [ ] MQTT subscriber
