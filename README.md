@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# SMART ROOM
+# Digitálne dvojča inteligentnej miestnosti
 ### Digital Twin · Internet of Things
 
 **A real-time digital representation of a physical smart room.**
