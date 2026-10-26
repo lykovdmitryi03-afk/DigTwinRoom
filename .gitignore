@@ -1,1 +1,41 @@
 
+# Secrets and environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node.js
+node_modules/
+dist/
+.vite/
+coverage/
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local databases and runtime
+*.sqlite3
+*.db
+postgres_data/
+mosquitto_data/
+mosquitto_log/
+
+# PlatformIO
+.pio/
+
+# Blender temporary files
+*.blend1
+*.blend2
+
